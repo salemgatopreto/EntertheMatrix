@@ -1,0 +1,11 @@
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\bin\Debug\EntertheMatrix.exe.config
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\bin\Debug\EntertheMatrix.exe
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\bin\Debug\EntertheMatrix.pdb
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.csproj.AssemblyReference.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.Form1.resources
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.Properties.Resources.resources
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.csproj.GenerateResource.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.exe
+C:\Users\guilherme.hsachetti\source\repos\uc12\EntertheMatrix\EntertheMatrix\obj\Debug\EntertheMatrix.pdb
